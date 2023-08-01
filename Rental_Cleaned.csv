@@ -1,0 +1,175 @@
+prop_type,prop_status,price,beds,baths,sqft,rank,source,City,Country,State
+townhome,for_rent,101,2,3,121.0,9,mls,Staten Island,USA,New York
+single_family,for_rent,800,1,1,140.0,11,unit_rental,Brooklyn,USA,New York
+townhome,for_rent,850,1,1,179.0,13,unit_rental,New York,USA,New York
+single_family,for_rent,900,1,1,140.0,14,unit_rental,Brooklyn,USA,New York
+apartment,for_rent,945,1,1,140.0,15,unit_rental,Brooklyn,USA,New York
+single_family,for_rent,950,1,1,140.0,16,mls,Jamaica,USA,New York
+single_family,for_rent,950,1,1,600.0,17,mls,Jamaica,USA,New York
+single_family,for_rent,990,4,2,140.0,19,unit_rental,New York,USA,New York
+apartment,for_rent,990,1,1,140.0,20,community,Bronx,USA,New York
+apartment,for_rent,1000,1,1,140.0,23,community,Brooklyn,USA,New York
+single_family,for_rent,1000,1,1,140.0,24,unit_rental,Middle Village,USA,New York
+condo,for_rent,1025,4,1,140.0,25,unit_rental,New York,USA,New York
+condo,for_rent,1050,4,1,140.0,26,unit_rental,New York,USA,New York
+condo,for_rent,1050,3,1,140.0,27,unit_rental,New York,USA,New York
+condo,for_rent,1050,4,1,140.0,28,unit_rental,New York,USA,New York
+condo,for_rent,1050,4,1,140.0,29,unit_rental,New York,USA,New York
+single_family,for_rent,1070,4,2,140.0,30,unit_rental,New York,USA,New York
+condo,for_rent,1075,5,2,155.0,31,unit_rental,New York,USA,New York
+condo,for_rent,1075,5,2,145.0,32,unit_rental,New York,USA,New York
+single_family,for_rent,1090,4,2,140.0,33,unit_rental,New York,USA,New York
+condo,for_rent,1100,4,2,140.0,35,unit_rental,New York,USA,New York
+condo,for_rent,1100,4,1,126.0,36,unit_rental,New York,USA,New York
+condo,for_rent,1100,4,1,102.0,37,unit_rental,New York,USA,New York
+apartment,for_rent,1100,1,1,140.0,39,mls,Canarsie,USA,New York
+single_family,for_rent,1100,1,2,140.0,40,mls,Rosedale,USA,New York
+multi_family,for_rent,1100,1,1,800.0,41,mls,Brooklyn,USA,New York
+single_family,for_rent,1100,1,1,140.0,42,mls,Saint Albans,USA,New York
+condo,for_rent,1100,5,2,165.0,43,unit_rental,New York,USA,New York
+condo,for_rent,1125,4,1,140.0,1,unit_rental,New York,USA,New York
+condo,for_rent,1125,4,1,106.0,2,unit_rental,New York,USA,New York
+condo,for_rent,1125,4,2,140.0,3,unit_rental,New York,USA,New York
+condo,for_rent,1125,4,1,140.0,4,unit_rental,New York,USA,New York
+condo,for_rent,1125,4,2,140.0,5,unit_rental,New York,USA,New York
+condo,for_rent,1125,4,2,140.0,6,unit_rental,New York,USA,New York
+condo,for_rent,1125,4,1,140.0,7,unit_rental,New York,USA,New York
+single_family,for_rent,1150,4,1,140.0,8,unit_rental,New York,USA,New York
+condo,for_rent,1150,4,3,140.0,9,unit_rental,New York,USA,New York
+single_family,for_rent,1150,4,2,140.0,10,unit_rental,New York,USA,New York
+condo,for_rent,1150,4,2,140.0,12,unit_rental,New York,USA,New York
+condo,for_rent,1150,3,1,140.0,13,unit_rental,New York,USA,New York
+condo,for_rent,1150,4,1,140.0,14,unit_rental,New York,USA,New York
+single_family,for_rent,1170,4,1,140.0,15,unit_rental,New York,USA,New York
+condo,for_rent,1175,3,1,140.0,16,unit_rental,New York,USA,New York
+condo,for_rent,1175,5,3,108.0,17,unit_rental,New York,USA,New York
+condo,for_rent,1175,4,2,140.0,18,unit_rental,New York,USA,New York
+condo,for_rent,1175,4,2,140.0,19,unit_rental,New York,USA,New York
+condo,for_rent,1175,4,2,140.0,20,unit_rental,New York,USA,New York
+condo,for_rent,1175,4,1,140.0,21,unit_rental,New York,USA,New York
+condo,for_rent,1175,4,1,140.0,22,unit_rental,New York,USA,New York
+single_family,for_rent,1180,4,1,140.0,23,unit_rental,New York,USA,New York
+single_family,for_rent,1180,4,1,140.0,24,unit_rental,New York,USA,New York
+condo,for_rent,1200,4,1,128.0,26,unit_rental,New York,USA,New York
+condo,for_rent,1200,4,2,140.0,27,unit_rental,New York,USA,New York
+duplex_triplex,for_rent,1200,1,1,140.0,28,unit_rental,Brooklyn,USA,New York
+condo,for_rent,1200,5,2,140.0,29,unit_rental,New York,USA,New York
+apartment,for_rent,1200,1,1,140.0,32,community,New York,USA,New York
+apartment,for_rent,1200,1,1,140.0,33,unit_rental,Brooklyn,USA,New York
+condo,for_rent,1200,4,2,140.0,34,unit_rental,New York,USA,New York
+condo,for_rent,1225,3,1,140.0,35,unit_rental,New York,USA,New York
+condo,for_rent,1225,5,2,140.0,36,unit_rental,New York,USA,New York
+condo,for_rent,1225,5,2,140.0,37,unit_rental,New York,USA,New York
+condo,for_rent,1250,3,1,140.0,38,unit_rental,New York,USA,New York
+condo,for_rent,1250,3,2,122.0,39,unit_rental,New York,USA,New York
+condo,for_rent,1250,3,1,140.0,40,unit_rental,New York,USA,New York
+condo,for_rent,1250,4,2,140.0,41,unit_rental,New York,USA,New York
+condo,for_rent,1250,5,2,140.0,42,unit_rental,New York,USA,New York
+apartment,for_rent,1250,1,1,2436.0,43,mls,Staten Island,USA,New York
+condo,for_rent,1250,4,1,103.0,1,unit_rental,New York,USA,New York
+multi_family,for_rent,1250,1,1,800.0,2,mls,Brooklyn,USA,New York
+condo,for_rent,1250,4,2,140.0,3,unit_rental,New York,USA,New York
+condo,for_rent,1250,6,2,140.0,4,unit_rental,New York,USA,New York
+condo,for_rent,1250,5,2,140.0,5,unit_rental,New York,USA,New York
+condo,for_rent,1250,4,1,107.0,6,unit_rental,New York,USA,New York
+condo,for_rent,1250,3,1,140.0,7,unit_rental,New York,USA,New York
+condo,for_rent,1250,4,2,140.0,8,unit_rental,New York,USA,New York
+condo,for_rent,1275,4,1,140.0,9,unit_rental,New York,USA,New York
+condo,for_rent,1275,4,2,140.0,10,unit_rental,New York,USA,New York
+condo,for_rent,1275,5,2,140.0,11,unit_rental,New York,USA,New York
+condo,for_rent,1275,3,1,104.0,12,unit_rental,New York,USA,New York
+condo,for_rent,1275,4,2,114.0,13,unit_rental,New York,USA,New York
+condo,for_rent,1275,4,2,111.0,14,unit_rental,New York,USA,New York
+condo,for_rent,1275,4,2,140.0,15,unit_rental,New York,USA,New York
+condo,for_rent,1275,4,2,136.0,16,unit_rental,New York,USA,New York
+single_family,for_rent,1295,1,1,140.0,17,unit_rental,Brooklyn,USA,New York
+single_family,for_rent,1295,1,1,650.0,18,unit_rental,New York,USA,New York
+condo,for_rent,1300,4,1,140.0,19,unit_rental,New York,USA,New York
+condo,for_rent,1300,3,1,140.0,20,unit_rental,New York,USA,New York
+single_family,for_rent,1300,1,1,140.0,21,mls,Saint Albans,USA,New York
+condo,for_rent,1300,4,2,112.0,22,unit_rental,New York,USA,New York
+condo,for_rent,1300,3,1,113.0,23,unit_rental,New York,USA,New York
+condo,for_rent,1300,3,1,101.0,24,unit_rental,New York,USA,New York
+apartment,for_rent,1300,1,1,500.0,25,mls,Staten Island,USA,New York
+apartment,for_rent,1300,1,1,997.0,26,unit_rental,Bronx,USA,New York
+single_family,for_rent,1300,5,3,140.0,27,unit_rental,New York,USA,New York
+apartment,for_rent,1300,1,1,650.0,28,unit_rental,New York,USA,New York
+condo,for_rent,1300,5,2,140.0,29,unit_rental,New York,USA,New York
+condo,for_rent,1300,5,3,140.0,30,unit_rental,New York,USA,New York
+condo,for_rent,1300,4,2,114.0,31,unit_rental,New York,USA,New York
+condo,for_rent,1300,5,2,140.0,32,unit_rental,New York,USA,New York
+condo,for_rent,1325,2,1,140.0,33,unit_rental,New York,USA,New York
+condo,for_rent,1325,5,2,175.0,34,unit_rental,New York,USA,New York
+condo,for_rent,1325,3,2,120.0,35,unit_rental,New York,USA,New York
+condo,for_rent,1325,4,2,106.0,36,unit_rental,New York,USA,New York
+condo,for_rent,1325,5,2,140.0,37,unit_rental,New York,USA,New York
+condo,for_rent,1325,6,2,140.0,38,unit_rental,New York,USA,New York
+single_family,for_rent,1350,1,1,650.0,41,unit_rental,New York,USA,New York
+condo,for_rent,1350,3,2,113.0,42,unit_rental,New York,USA,New York
+condo,for_rent,1350,4,2,140.0,43,unit_rental,New York,USA,New York
+condo,for_rent,1350,2,1,140.0,1,unit_rental,New York,USA,New York
+condo,for_rent,1350,3,1,140.0,2,unit_rental,New York,USA,New York
+condo,for_rent,1350,3,1,140.0,3,unit_rental,New York,USA,New York
+apartment,for_rent,1350,2,1,140.0,4,community,New York,USA,New York
+condo,for_rent,1350,4,1,235.0,5,unit_rental,New York,USA,New York
+single_family,for_rent,1360,3,1,140.0,6,unit_rental,New York,USA,New York
+condo,for_rent,1375,5,2,130.0,7,unit_rental,New York,USA,New York
+condo,for_rent,1375,4,2,140.0,8,unit_rental,New York,USA,New York
+condo,for_rent,1375,4,2,140.0,9,unit_rental,New York,USA,New York
+condo,for_rent,1375,3,1,102.0,10,unit_rental,New York,USA,New York
+condo,for_rent,1375,4,2,135.0,11,unit_rental,New York,USA,New York
+condo,for_rent,1375,3,1,113.0,12,unit_rental,New York,USA,New York
+condo,for_rent,1375,4,2,140.0,13,unit_rental,New York,USA,New York
+single_family,for_rent,1375,1,1,1936.0,14,mls,Staten Island,USA,New York
+apartment,for_rent,1390,1,1,780.0,15,unit_rental,Brooklyn,USA,New York
+condo,for_rent,1400,3,1,140.0,18,unit_rental,New York,USA,New York
+single_family,for_rent,1400,1,1,140.0,19,mls,Brooklyn,USA,New York
+apartment,for_rent,1400,1,1,140.0,21,unit_rental,Queens,USA,New York
+condo,for_rent,1400,5,2,140.0,23,unit_rental,New York,USA,New York
+condo,for_rent,1400,3,1,140.0,24,unit_rental,New York,USA,New York
+condo,for_rent,1400,4,2,123.0,25,unit_rental,New York,USA,New York
+condo,for_rent,1400,6,2,140.0,26,unit_rental,New York,USA,New York
+condo,for_rent,1400,3,1,140.0,27,unit_rental,New York,USA,New York
+condo,for_rent,1400,4,1,190.0,28,unit_rental,New York,USA,New York
+condo,for_rent,1410,4,1,110.0,29,unit_rental,New York,USA,New York
+condo,for_rent,1410,5,3,140.0,30,unit_rental,New York,USA,New York
+condo,for_rent,1425,2,1,139.0,31,unit_rental,New York,USA,New York
+condo,for_rent,1425,4,2,140.0,32,unit_rental,New York,USA,New York
+condo,for_rent,1425,5,2,138.0,33,unit_rental,New York,USA,New York
+condo,for_rent,1425,6,2,140.0,34,unit_rental,New York,USA,New York
+condo,for_rent,1425,2,1,208.0,35,unit_rental,New York,USA,New York
+condo,for_rent,1425,5,2,140.0,36,unit_rental,New York,USA,New York
+condo,for_rent,1425,4,1,140.0,37,unit_rental,New York,USA,New York
+condo,for_rent,1425,4,2,114.0,38,unit_rental,New York,USA,New York
+condo,for_rent,1425,4,2,140.0,39,unit_rental,New York,USA,New York
+condo,for_rent,1425,3,1,140.0,40,unit_rental,New York,USA,New York
+condo,for_rent,1425,4,2,140.0,41,unit_rental,New York,USA,New York
+condo,for_rent,1450,3,1,140.0,42,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,2,140.0,43,unit_rental,New York,USA,New York
+condo,for_rent,1450,3,1,140.0,1,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,2,120.0,2,unit_rental,New York,USA,New York
+apartment,for_rent,1450,1,1,527.0,3,unit_rental,Brooklyn,USA,New York
+single_family,for_rent,1450,1,1,650.0,4,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,2,140.0,5,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,3,115.0,6,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,2,140.0,7,unit_rental,New York,USA,New York
+condo,for_rent,1450,2,1,145.0,8,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,2,178.0,9,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,2,140.0,10,unit_rental,New York,USA,New York
+condo,for_rent,1450,4,2,140.0,11,unit_rental,New York,USA,New York
+condo,for_rent,1450,6,2,140.0,12,unit_rental,New York,USA,New York
+apartment,for_rent,1455,1,1,140.0,13,mls,Bronx,USA,New York
+condo,for_rent,1460,5,3,140.0,14,unit_rental,New York,USA,New York
+apartment,for_rent,1470,1,1,820.0,15,unit_rental,Queens,USA,New York
+condo,for_rent,1475,4,2,140.0,16,unit_rental,New York,USA,New York
+condo,for_rent,1475,6,2,140.0,17,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,2,140.0,18,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,1,140.0,19,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,1,166.0,20,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,2,140.0,22,unit_rental,New York,USA,New York
+condo,for_rent,1475,5,2,119.0,23,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,2,140.0,24,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,2,140.0,25,unit_rental,New York,USA,New York
+condo,for_rent,1475,3,1,140.0,26,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,2,140.0,27,unit_rental,New York,USA,New York
+condo,for_rent,1475,4,2,140.0,28,unit_rental,New York,USA,New York
