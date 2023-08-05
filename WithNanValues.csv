@@ -1,0 +1,172 @@
+,prop_type,price,beds,baths,sqft,rank,source,city
+0,townhome,101,2,3,121.0,9,mls,Staten Island
+1,single_family,800,1,1,,11,unit_rental,Brooklyn
+2,townhome,850,1,1,179.0,13,unit_rental,New York
+3,condo,850,4,1,128.0,14,unit_rental,New York
+4,condo,875,4,2,104.0,15,unit_rental,New York
+5,condo,875,4,1,,16,unit_rental,New York
+6,single_family,900,1,2,900.0,17,mls,Corona
+7,apartment,900,1,1,,18,unit_rental,Bronx
+8,single_family,900,1,1,,19,unit_rental,Brooklyn
+9,condo,925,3,1,113.0,20,unit_rental,New York
+10,apartment,945,1,1,,21,unit_rental,Brooklyn
+11,single_family,950,1,1,,22,mls,Jamaica
+12,condo,950,4,2,,23,unit_rental,New York
+13,single_family,950,1,1,600.0,24,mls,Jamaica
+14,condo,950,4,2,,25,unit_rental,New York
+15,condo,950,4,2,,26,unit_rental,New York
+16,condo,975,4,1,,27,unit_rental,New York
+17,single_family,990,4,2,,29,unit_rental,New York
+18,apartment,990,1,1,,30,community,Bronx
+19,single_family,1000,1,1,200.0,33,unit_rental,New York
+20,single_family,1000,1,1,,34,unit_rental,Middle Village
+21,apartment,1000,1,1,,35,community,Brooklyn
+22,condo,1000,4,1,,36,unit_rental,New York
+23,condo,1025,4,1,100.0,38,unit_rental,New York
+24,condo,1050,4,1,102.0,39,unit_rental,New York
+25,condo,1050,4,1,126.0,40,unit_rental,New York
+26,condo,1050,5,2,,41,unit_rental,New York
+27,condo,1050,3,2,107.0,42,unit_rental,New York
+28,single_family,1060,4,2,,43,unit_rental,New York
+29,single_family,1060,3,1,,1,unit_rental,New York
+30,condo,1075,4,1,,2,unit_rental,New York
+31,condo,1075,4,1,107.0,3,unit_rental,New York
+32,single_family,1090,4,2,,4,unit_rental,New York
+33,condo,1100,5,2,175.0,6,unit_rental,New York
+34,condo,1100,5,2,155.0,8,unit_rental,New York
+35,condo,1100,4,1,,9,unit_rental,New York
+36,multi_family,1100,1,1,800.0,10,mls,Brooklyn
+37,single_family,1100,1,1,,12,mls,Saint Albans
+38,single_family,1100,1,2,,13,mls,Rosedale
+39,condo,1100,5,2,145.0,14,unit_rental,New York
+40,condo,1100,4,2,133.0,15,unit_rental,New York
+41,condo,1100,5,2,,16,unit_rental,New York
+42,condo,1100,6,2,,17,unit_rental,New York
+43,condo,1100,3,1,,18,unit_rental,New York
+44,condo,1125,5,3,108.0,19,unit_rental,New York
+45,condo,1125,6,2,,20,unit_rental,New York
+46,condo,1125,6,2,,21,unit_rental,New York
+47,single_family,1150,4,2,,23,unit_rental,New York
+48,condo,1150,4,2,,24,unit_rental,New York
+49,condo,1150,4,2,,25,unit_rental,New York
+50,condo,1150,4,1,,26,unit_rental,New York
+51,condo,1150,4,2,111.0,27,unit_rental,New York
+52,single_family,1160,4,1,,28,unit_rental,New York
+53,single_family,1170,4,1,,29,unit_rental,New York
+54,condo,1175,4,2,,30,unit_rental,New York
+55,condo,1175,4,2,,31,unit_rental,New York
+56,condo,1175,4,2,178.0,32,unit_rental,New York
+57,single_family,1180,4,1,,33,unit_rental,New York
+58,single_family,1180,4,1,,34,unit_rental,New York
+59,duplex_triplex,1200,1,1,,35,unit_rental,Brooklyn
+60,single_family,1200,4,2,,36,unit_rental,New York
+61,condo,1200,4,1,,38,unit_rental,New York
+62,condo,1200,4,2,,39,unit_rental,New York
+63,condo,1200,4,2,,40,unit_rental,New York
+64,condo,1200,4,1,,41,unit_rental,New York
+65,condo,1200,3,2,122.0,42,unit_rental,New York
+66,apartment,1200,1,1,,43,community,New York
+67,condo,1200,4,2,,1,unit_rental,New York
+68,apartment,1200,1,1,,5,unit_rental,Brooklyn
+69,single_family,1210,3,2,,6,unit_rental,New York
+70,single_family,1210,4,2,,7,unit_rental,New York
+71,single_family,1220,4,2,,8,unit_rental,New York
+72,condo,1225,4,1,,9,unit_rental,New York
+73,condo,1225,4,2,,10,unit_rental,New York
+74,condo,1225,3,1,,11,unit_rental,New York
+75,condo,1225,4,2,136.0,12,unit_rental,New York
+76,condo,1225,4,1,140.0,13,unit_rental,New York
+77,condo,1225,4,1,,14,unit_rental,New York
+78,condo,1225,3,2,,15,unit_rental,New York
+79,condo,1225,4,1,,16,unit_rental,New York
+80,condo,1225,3,1,,17,unit_rental,New York
+81,condo,1225,4,2,,18,unit_rental,New York
+82,condo,1250,6,2,,19,unit_rental,New York
+83,condo,1250,3,1,,20,unit_rental,New York
+84,condo,1250,4,2,,21,unit_rental,New York
+85,condo,1250,4,2,,22,unit_rental,New York
+86,condo,1250,4,2,106.0,23,unit_rental,New York
+87,condo,1250,2,1,110.0,24,unit_rental,New York
+88,condo,1250,4,1,103.0,25,unit_rental,New York
+89,multi_family,1250,1,1,800.0,26,mls,Brooklyn
+90,condo,1250,4,2,,27,unit_rental,New York
+91,condo,1250,4,2,,28,unit_rental,New York
+92,condo,1250,5,2,,29,unit_rental,New York
+93,condo,1275,4,1,100.0,30,unit_rental,New York
+94,condo,1275,4,1,,31,unit_rental,New York
+95,condo,1275,4,2,112.0,32,unit_rental,New York
+96,condo,1275,4,2,114.0,33,unit_rental,New York
+97,condo,1275,4,2,114.0,34,unit_rental,New York
+98,condo,1275,4,2,,35,unit_rental,New York
+99,condo,1275,5,2,,36,unit_rental,New York
+100,single_family,1295,1,1,,37,unit_rental,Brooklyn
+101,single_family,1295,1,1,650.0,38,unit_rental,New York
+102,single_family,1300,1,1,,39,mls,Saint Albans
+103,apartment,1300,1,1,500.0,41,mls,Staten Island
+104,condo,1300,4,2,,42,unit_rental,New York
+105,condo,1300,6,3,,43,unit_rental,New York
+106,condo,1300,3,1,,1,unit_rental,New York
+107,condo,1300,3,1,101.0,2,unit_rental,New York
+108,condo,1300,6,2,,3,unit_rental,New York
+109,single_family,1300,5,3,,4,unit_rental,New York
+110,condo,1300,4,2,,5,unit_rental,New York
+111,condo,1300,4,2,120.0,6,unit_rental,New York
+112,condo,1300,4,2,120.0,7,unit_rental,New York
+113,condo,1300,6,2,,8,unit_rental,New York
+114,condo,1325,6,2,,9,unit_rental,New York
+115,condo,1325,4,2,,10,unit_rental,New York
+116,condo,1325,3,1,,11,unit_rental,New York
+117,condo,1325,6,2,,12,unit_rental,New York
+118,condo,1325,4,1,120.0,13,unit_rental,New York
+119,condo,1325,6,2,,14,unit_rental,New York
+120,condo,1325,6,2,,15,unit_rental,New York
+121,condo,1325,5,2,,16,unit_rental,New York
+122,condo,1325,6,2,,17,unit_rental,New York
+123,condo,1325,3,1,,18,unit_rental,New York
+124,condo,1325,6,2,,19,unit_rental,New York
+125,condo,1325,6,2,,20,unit_rental,New York
+126,single_family,1350,1,1,650.0,23,unit_rental,New York
+127,condo,1350,3,1,,24,unit_rental,New York
+128,condo,1350,3,1,,25,unit_rental,New York
+129,condo,1350,3,2,113.0,26,unit_rental,New York
+130,condo,1350,3,1,,27,unit_rental,New York
+131,condo,1350,4,2,,28,unit_rental,New York
+132,apartment,1350,1,1,850.0,29,unit_rental,Bronx
+133,condo,1350,3,1,,30,unit_rental,New York
+134,apartment,1350,2,1,,31,community,New York
+135,condo,1350,3,1,,32,unit_rental,New York
+136,single_family,1360,3,1,,33,unit_rental,New York
+137,single_family,1360,4,2,,34,unit_rental,New York
+138,condo,1375,2,1,,35,unit_rental,New York
+139,condo,1375,4,1,,36,unit_rental,New York
+140,condo,1375,4,2,107.0,37,unit_rental,New York
+141,condo,1375,4,1,132.0,38,unit_rental,New York
+142,single_family,1375,1,1,1936.0,39,mls,Staten Island
+143,condo,1375,5,2,,40,unit_rental,New York
+144,condo,1375,4,1,,41,unit_rental,New York
+145,condo,1375,3,1,102.0,42,unit_rental,New York
+146,condo,1375,4,2,,43,unit_rental,New York
+147,condo,1375,4,2,135.0,1,unit_rental,New York
+148,condo,1375,4,2,,2,unit_rental,New York
+149,condo,1375,3,1,,3,unit_rental,New York
+150,condo,1380,5,3,,4,unit_rental,New York
+151,condo,1380,5,3,100.0,5,unit_rental,New York
+152,single_family,1395,1,1,650.0,6,unit_rental,New York
+153,single_family,1395,1,1,,8,unit_rental,Brooklyn
+154,condo,1400,2,1,153.0,9,unit_rental,New York
+155,condo,1400,6,2,,10,unit_rental,New York
+156,condo,1400,4,2,120.0,11,unit_rental,New York
+157,apartment,1400,1,1,650.0,12,unit_rental,New York
+158,apartment,1400,1,1,889.0,14,unit_rental,Brooklyn
+159,condo,1400,4,2,,15,unit_rental,New York
+160,condo,1400,2,1,208.0,16,unit_rental,New York
+161,condo,1400,6,2,,17,unit_rental,New York
+162,single_family,1400,1,1,,18,mls,Brooklyn
+163,apartment,1400,1,1,680.0,20,unit_rental,Bronx
+164,apartment,1400,1,1,,21,unit_rental,Queens
+165,single_family,1400,4,2,,22,unit_rental,New York
+166,condo,1400,5,2,,24,unit_rental,New York
+167,condo,1400,4,2,123.0,25,unit_rental,New York
+168,condo,1400,4,2,,26,unit_rental,New York
+169,condo,1400,4,2,,27,unit_rental,New York
+170,condo,1400,4,2,112.0,28,unit_rental,New York
